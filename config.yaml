@@ -1,0 +1,49 @@
+baseURL: 'https://adeb.me'
+languageCode: 'en-us'
+title: 'aDeb.me'
+theme: PaperMod
+enableRobotsTXT: true
+
+googleAnalytics: G-RCPW33G2DG
+
+minify:
+  minifyOutput: true
+
+menu:
+  main:
+    - identifier: posts
+      name: POSTS
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: TAGS
+      url: /tags/
+      weight: 30
+    - identifier: resources
+      name: RESOURCES
+      url: /resources/
+      weight: 40
+    - identifier: about
+      name: ABOUT
+      url: /about/
+      weight: 50
+
+params:
+  disableThemeToggle: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  UseHugoToc: true
+  hideSummary: false
+  showtoc: false
+  tocopen: true
+  ShowReadingTime: true
+
+  editPost:
+    URL: "https://github.com/alessiodebernardi/adeb.me/tree/main/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+sitemap:
+  changeFreq: ""
+  filename: sitemap.xml
+  priority: -1
