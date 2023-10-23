@@ -1,3 +1,6 @@
+---
+title: "About"
+---
 ![profile_pic](profilepic.jpeg)
 **Alessio Debernardi Venon**
 
