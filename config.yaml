@@ -34,8 +34,8 @@ params:
   ShowBreadCrumbs: true
   UseHugoToc: true
   hideSummary: false
-  showtoc: false
-  tocopen: true
+  showtoc: true
+  tocopen: false
   ShowReadingTime: true
 
   editPost:
