@@ -1,7 +1,7 @@
 ---
 title: "Domain Driven Design - A quick introduction"
 date: 2024-03-12T19:41:37Z
-draft: true
+draft: false
 tags:
   - Development
   - Software Engineering
