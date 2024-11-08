@@ -7,6 +7,7 @@ title: "Resources"
 
 ## Tools
 - [Excalidraw - Useful tool to make beautiful hand-draw feel diagrams](https://excalidraw.com/)
+- [Collection of useful cheat sheets](https://nicwortel.nl/cheat-sheets)
 
 ## Books
 - Implementing Domain-Driven Design, Vaughn Vernon

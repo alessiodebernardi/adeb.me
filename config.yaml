@@ -35,7 +35,7 @@ params:
   UseHugoToc: true
   hideSummary: false
   showtoc: true
-  tocopen: false
+  tocopen: true
   ShowReadingTime: true
 
   editPost:
@@ -45,6 +45,19 @@ params:
 
   author: "Alessio Debernardi Venon"
   description: "I write about software development, and other stuff i like."
+
+  homeInfoParams:
+    Title: "Welcome to aDeb.me"
+    Content: >
+      I'm [Alessio](/about/) and i'm a Software Engineer (and also a pretty good cook 🍕).
+      I enjoy writing about software development, especially about topics that have intrigued me.
+      Enjoy!
+
+  socialIcons: # optional
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/alessio-debernardi-venon/"
+    - name: "github"
+      url: "https://github.com/alessiodebernardi"
 
 sitemap:
   changeFreq: ""
