@@ -5,6 +5,7 @@ draft: false
 tags:
   - Development
   - Software Engineering
+  - Software Architecture
 ---
 
 When designing complex systems, especially those involving microservices and distributed environments, you often get to the point where you have to design a way to get different services to collaborate, to work together to accomplish some kind of workflow.
